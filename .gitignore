@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# GridMind-AI — generated report output (keep templates)
+reports/*.pdf
+reports/*.md
+!reports/templates/
