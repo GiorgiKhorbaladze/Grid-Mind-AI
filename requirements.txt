@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy>=1.24
+plotly>=5.18
+streamlit>=1.31
+pytest>=7.4
+# Optional: install pyomo plus a GLPK executable for mathematical programming.
+# The app automatically falls back to a deterministic heuristic optimizer when unavailable.
